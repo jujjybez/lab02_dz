@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-cout << "Hello world";
+string name;
+cout << "Enter name: "; 
+cin >> name;
+cout << endl << "Hello world from " << name;
+return 0;
 }
