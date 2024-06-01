@@ -3,7 +3,7 @@
 int
 main()
 {
-  std::string name;            // create string
+  std::str;ing name;            // create string
   std::cout << "Enter name: "; // a message to enter a name
   std::cin >> name;            // enter a name from a keyboard
   std::cout << std::endl
